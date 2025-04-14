@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Anirudh (aka Ani-tem)
 
-🎓 CS undergrad | 💻 700+ LeetCode problems solved (Knight Badge) | 🧠 Codeforces Specialist  
+🎓 ECE undergrad | 💻 750+ LeetCode problems solved (Knight Badge) | 🧠 Codeforces Specialist  
 Aspiring software engineer with a hunger for challenges and a dream to code my way into a global MNC.
 
 ---
@@ -33,10 +33,14 @@ I thrive in the grind — debugging in the dark, sipping chai while binary searc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
