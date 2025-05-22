@@ -65,7 +65,7 @@ Frontend playground for HTML/CSS/JS with live output and editor UI.
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/anirudh-temmanaboyina-5b7a1b28a/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anirudh-temmanaboyina-5b7a1b28a/)
 - 📧 Email: anirudhtemmanaboyina@gmail.com
 
 ---
