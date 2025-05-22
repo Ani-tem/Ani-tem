@@ -49,8 +49,8 @@ I thrive in the grind — debugging in the dark, sipping chai while binary searc
 ### 🔧 [Task Master](https://github.com/Ani-tem/task_master)
 Task management app with full authentication, built using Node.js, PostgreSQL, and EJS.
 
-### ⏱ [Contest Tracker](https://github.com/Ani-tem/contest-tracker)
-Live tracker for competitive programming contests using Clist API.
+### ⏱ [Redis](https://github.com/Ani-tem/Redis.git)
+A Redis-like in-memory key-value store built from scratch in C++ to mimic core Redis functionality for educational insights into high-performance networked databases.
 
 ### 💻 [Online Code Editor](https://github.com/Ani-tem/OnlinecodeEditor)
 Frontend playground for HTML/CSS/JS with live output and editor UI.
