@@ -18,10 +18,9 @@ Aspiring software engineer with a hunger for challenges and a dream to code my w
 ## 🔥 Competitive Programming
 
 - 🧩 **LeetCode**: 700+ problems solved | ![Knight Badge](https://leetcode.com/static/images/badges/knight.png)
-  - Profile: [leetcode.com/Aniem]([https://leetcode.com/](https://leetcode.com/u/Aniem/))
+  - Profile: [leetcode.com]
 - 🧠 **Codeforces**: Specialist
-  - Handle: [codeforces.com/profile/Anitem](https://codeforces.com/profile/anitem)
-
+  - Handle: [codeforces.com]
 I thrive in the grind — debugging in the dark, sipping chai while binary searching through pain.
 
 ---
