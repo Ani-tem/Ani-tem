@@ -1,4 +1,4 @@
-# <div align="center">🚀 **Anirudh Temmanaboyina** 🚀</div>
+# <div align="center"> **Temmanaboyina V V B Anirudh ** </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=ECE+Undergrad+%7C+Problem+Solver;LeetCode+Knight+%F0%9F%97%A1%EF%B8%8F+%7C+Codeforces+Specialist;Aspiring+Software+Engineer" alt="Typing SVG" />
@@ -92,7 +92,7 @@ public:
 |---------|-------------|------------|
 | **📝 Task Management App** | Full-stack app with authentication & PostgreSQL | Node.js, PostgreSQL, EJS |
 | **⚡ Redis Clone** | In-memory key-value store built from scratch | C++ |
-| **🎨 Frontend Playground** | Live HTML/CSS/JS editor with real-time output | HTML, CSS, JavaScript |
+| **🦶 FeetInfra** | Infrastructure project for scalable applications | Node.js, Express, PostgreSQL |
 
 </div>
 
@@ -122,6 +122,7 @@ public:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-temmanaboyina-5b7a1b28a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://portfolio-git-main-ani-tems-projects.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anirudhtemmanaboyina@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Ani-tem)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Ani-tem)
