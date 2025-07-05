@@ -1,7 +1,7 @@
-# <div align="center"> Temmanaboyina V V B Anirudh 🤓 </div>
+# <div align="center">🚀 **Anirudh Temmanaboyina** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=ECE+Undergrad+%7C+Problem+Solver;LeetCode+Knight+%F0%9F%97%A1%EF%B8%8F+%7C+Codeforces+Specialist;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=ECE+Undergrad+%40+IIIT+Allahabad;Top+1%25+in+JEE+Mains+2022+%F0%9F%8E%AF;LeetCode+Knight+%F0%9F%97%A1%EF%B8%8F+%7C+Codeforces+Specialist;Aspiring+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,11 +18,15 @@
 class SoftwareEngineer {
 private:
     string name = "Anirudh Temmanaboyina";
-    string role = "ECE Undergrad & Competitive Programmer";
+    string college = "IIIT Allahabad";
+    string role = "ECE Undergrad";
+    string achievement = "Top 1% in JEE Mains 2022 🎯";
     vector<string> languages = {"C++", "JavaScript", "Python", "Java"};
     
 public:
     void displayStats() {
+        cout << "🏛️ College: " << college << endl;
+        cout << "🎓 Academic Achievement: " << achievement << endl;
         cout << "🎯 LeetCode Problems Solved: 750+ (Knight Badge)" << endl;
         cout << "⚔️ Codeforces Rating: Specialist" << endl;
         cout << "🌱 Currently Learning: Full-Stack Development" << endl;
