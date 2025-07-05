@@ -1,4 +1,4 @@
-# <div align="center">🚀 **Anirudh Temmanaboyina** 🚀</div>
+# <div align="center">Temmanaboyina V V B Anirudh </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=140&lines=ECE+Undergrad+%40+IIIT+Allahabad;Top+1%25+in+JEE+Mains+2022+%F0%9F%8E%AF;LeetCode+Knight+%F0%9F%97%A1%EF%B8%8F+%7C+Codeforces+Specialist;Aspiring+Software+Engineer" alt="Typing SVG" />
