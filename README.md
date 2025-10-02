@@ -111,8 +111,8 @@ public:
 <div align="center">
 
 ### 🏆 **Achievements**
-- 🗡️ **LeetCode Knight Badge** (750+ problems solved)
-- ⚔️ **Codeforces Specialist** 
+- 🗡️ **LeetCode Guardian Badge** (850+ problems solved)
+- ⚔️ **Codeforces Expert ** 
 - 🎯 **Active Problem Solver** across multiple platforms
 
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-a36d-4d0415a4c7c2.gif" width="200">
